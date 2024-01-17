@@ -1,0 +1,12 @@
+Tema 1 : "DataSet del Futbol Argentino"
+
+Aqui cargue dos Df, ya que cuentan con info similar, y a la vez complementaria, que puede ser muy util.
+me serviria que me des tu opinion, si uso uno u otro, o los dos, (o ninguno ? jajaj)
+
+En este tema , se tratara el Futbol Argentino, con datos sobre  los ultimo 7/8 años.
+Elegí el tema del fútbol argentino para mi proyecto de análisis de datos debido a mi interés personal en este deporte.
+Se tratara de analizar la variables descriptas en el Jupiter Notebook, mostrar como interacturan y predecir resultados.
+Además, veo oportunidades comerciales en el análisis deportivo ya que también puede generar conocimiento
+valioso y oportunidades comerciales en el ámbito deportivo, como estrategias de apuestas, 
+análisis de desempeño de equipos y toma de decisiones informadas en la industria del entretenimiento deportivo, y como mas
+importante toma de decisiones a nivel de Clubes.

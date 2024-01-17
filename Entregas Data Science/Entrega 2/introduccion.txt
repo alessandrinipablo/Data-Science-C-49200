@@ -1,0 +1,8 @@
+Tema dos: Base de datos de clima Mundial.
+
+
+En esta exploración de datos, iremos a un conjunto de datos que abarca información climática a nivel mundial.
+Nuestro objetivo principal es utilizar estos datos para predecir una variedad de fenómenos climáticos y 
+condiciones ambientales. A medida que analicemos este conjunto de datos, consideraremos cómo estas predicciones
+pueden tener aplicaciones significativas en campos tan diversos como la meteorología, la gestión de la calidad del aire,
+la planificación de energía y agricultura, y la industria turística. 
