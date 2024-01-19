@@ -1,7 +1,0 @@
-Tema 3: Airbnb en Nueva YoRK
-
-En este 3er tema exploraremos un conjunto de datos sobre alquileres de propiedades en Airbnb en la ciudad de Nueva York. 
-Nuestro objetivo es predecir y entender tendencias en el mercado de alquiler, así como la satisfacción de los huéspedes. 
-Esto puede ayudar a los anfitriones (dueños o apoderados) a tomar decisiones más certeras y a los viajeros a encontrar
- alojamientos ideales. Además, destacaremos cómo los datos pueden impulsar mejoras en la experiencia de los viajeros 
- y en el negocio de alquileres en la Gran Manzana.
